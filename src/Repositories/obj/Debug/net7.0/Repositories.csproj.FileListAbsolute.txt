@@ -1,0 +1,38 @@
+D:\C#\App\Repositories\bin\Debug\net7.0\Repositories.deps.json
+D:\C#\App\Repositories\bin\Debug\net7.0\Repositories.runtimeconfig.json
+D:\C#\App\Repositories\bin\Debug\net7.0\Repositories.dll
+D:\C#\App\Repositories\bin\Debug\net7.0\Repositories.pdb
+D:\C#\App\Repositories\bin\Debug\net7.0\Entity.dll
+D:\C#\App\Repositories\bin\Debug\net7.0\Infrastructure.dll
+D:\C#\App\Repositories\bin\Debug\net7.0\Entity.pdb
+D:\C#\App\Repositories\bin\Debug\net7.0\Infrastructure.pdb
+D:\C#\App\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+D:\C#\App\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\App\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+D:\C#\App\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+D:\C#\App\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+D:\C#\App\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
+D:\C#\App\Repositories\obj\Debug\net7.0\Repositories.dll
+D:\C#\App\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+D:\C#\App\Repositories\obj\Debug\net7.0\Repositories.pdb
+D:\C#\App\Repositories\obj\Debug\net7.0\Repositories.genruntimeconfig.cache
+D:\C#\App\Repositories\obj\Debug\net7.0\ref\Repositories.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\bin\Debug\net7.0\Repositories.deps.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\bin\Debug\net7.0\Repositories.runtimeconfig.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\bin\Debug\net7.0\Repositories.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\bin\Debug\net7.0\Repositories.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\bin\Debug\net7.0\Entity.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\bin\Debug\net7.0\Infrastructure.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\bin\Debug\net7.0\Entity.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\bin\Debug\net7.0\Infrastructure.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\Repositories.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\Repositories.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\Repositories.genruntimeconfig.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Repositories\obj\Debug\net7.0\ref\Repositories.dll

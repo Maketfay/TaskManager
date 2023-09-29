@@ -1,0 +1,30 @@
+D:\C#\App\Entity\bin\Debug\net7.0\Entity.deps.json
+D:\C#\App\Entity\bin\Debug\net7.0\Entity.dll
+D:\C#\App\Entity\bin\Debug\net7.0\Entity.pdb
+D:\C#\App\Entity\bin\Debug\net7.0\Infrastructure.dll
+D:\C#\App\Entity\bin\Debug\net7.0\Infrastructure.pdb
+D:\C#\App\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+D:\C#\App\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\App\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+D:\C#\App\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+D:\C#\App\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+D:\C#\App\Entity\obj\Debug\net7.0\Entity.csproj.CopyComplete
+D:\C#\App\Entity\obj\Debug\net7.0\Entity.dll
+D:\C#\App\Entity\obj\Debug\net7.0\refint\Entity.dll
+D:\C#\App\Entity\obj\Debug\net7.0\Entity.pdb
+D:\C#\App\Entity\obj\Debug\net7.0\ref\Entity.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\bin\Debug\net7.0\Entity.deps.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\bin\Debug\net7.0\Entity.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\bin\Debug\net7.0\Entity.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\bin\Debug\net7.0\Infrastructure.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\bin\Debug\net7.0\Infrastructure.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.csproj.CopyComplete
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\refint\Entity.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\ref\Entity.dll

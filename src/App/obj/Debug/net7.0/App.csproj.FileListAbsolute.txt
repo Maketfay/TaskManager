@@ -1,0 +1,171 @@
+D:\C#\App\App\bin\Debug\net7.0\appsettings.Development.json
+D:\C#\App\App\bin\Debug\net7.0\appsettings.json
+D:\C#\App\App\bin\Debug\net7.0\App.exe
+D:\C#\App\App\bin\Debug\net7.0\App.deps.json
+D:\C#\App\App\bin\Debug\net7.0\App.runtimeconfig.json
+D:\C#\App\App\bin\Debug\net7.0\App.dll
+D:\C#\App\App\bin\Debug\net7.0\App.pdb
+D:\C#\App\App\bin\Debug\net7.0\Azure.Core.dll
+D:\C#\App\App\bin\Debug\net7.0\Azure.Identity.dll
+D:\C#\App\App\bin\Debug\net7.0\Castle.Core.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\App\App\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#\App\App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#\App\App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C#\App\App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\C#\App\App\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\C#\App\App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\App\App\bin\Debug\net7.0\System.Memory.Data.dll
+D:\C#\App\App\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\C#\App\App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\App\App\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\C#\App\App\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\App\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\App\App\bin\Debug\net7.0\Entity.dll
+D:\C#\App\App\bin\Debug\net7.0\Infrastructure.dll
+D:\C#\App\App\bin\Debug\net7.0\Repositories.dll
+D:\C#\App\App\bin\Debug\net7.0\Repositories.pdb
+D:\C#\App\App\bin\Debug\net7.0\Entity.pdb
+D:\C#\App\App\bin\Debug\net7.0\Infrastructure.pdb
+D:\C#\App\App\obj\Debug\net7.0\App.csproj.AssemblyReference.cache
+D:\C#\App\App\obj\Debug\net7.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\App\App\obj\Debug\net7.0\App.AssemblyInfoInputs.cache
+D:\C#\App\App\obj\Debug\net7.0\App.AssemblyInfo.cs
+D:\C#\App\App\obj\Debug\net7.0\App.csproj.CoreCompileInputs.cache
+D:\C#\App\App\obj\Debug\net7.0\App.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\App\App\obj\Debug\net7.0\App.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\App\App\obj\Debug\net7.0\staticwebassets\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\App\App\obj\Debug\net7.0\staticwebassets\msbuild.build.App.props
+D:\C#\App\App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.App.props
+D:\C#\App\App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.App.props
+D:\C#\App\App\obj\Debug\net7.0\staticwebassets.pack.json
+D:\C#\App\App\obj\Debug\net7.0\staticwebassets.build.json
+D:\C#\App\App\obj\Debug\net7.0\staticwebassets.development.json
+D:\C#\App\App\obj\Debug\net7.0\scopedcss\bundle\App.styles.css
+D:\C#\App\App\obj\Debug\net7.0\App.csproj.CopyComplete
+D:\C#\App\App\obj\Debug\net7.0\App.dll
+D:\C#\App\App\obj\Debug\net7.0\refint\App.dll
+D:\C#\App\App\obj\Debug\net7.0\App.pdb
+D:\C#\App\App\obj\Debug\net7.0\App.genruntimeconfig.cache
+D:\C#\App\App\obj\Debug\net7.0\ref\App.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\C#\App\App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\C#\App\App\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\C#\App\App\bin\Debug\net7.0\User.dll
+D:\C#\App\App\bin\Debug\net7.0\User.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\appsettings.Development.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\appsettings.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\App.exe
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\App.deps.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\App.runtimeconfig.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\App.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\App.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Azure.Core.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Azure.Identity.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Castle.Core.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\System.Memory.Data.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Entity.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Infrastructure.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Repositories.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\User.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Repositories.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\User.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Entity.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Infrastructure.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.csproj.AssemblyReference.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.AssemblyInfoInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.AssemblyInfo.cs
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.csproj.CoreCompileInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.MvcApplicationPartsAssemblyInfo.cs
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.MvcApplicationPartsAssemblyInfo.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\staticwebassets\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\staticwebassets\msbuild.build.App.props
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.App.props
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.App.props
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\staticwebassets.pack.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\staticwebassets.build.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\staticwebassets.development.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\scopedcss\bundle\App.styles.css
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.csproj.CopyComplete
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\refint\App.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\App.genruntimeconfig.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\ref\App.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Services.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Services.pdb
