@@ -1,0 +1,12 @@
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\bin\Debug\net7.0\ViewModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\obj\Debug\net7.0\ViewModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll

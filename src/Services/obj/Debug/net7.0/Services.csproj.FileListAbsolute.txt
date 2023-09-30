@@ -15,3 +15,5 @@ D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Services\obj\Debug\net7.0\Services.dl
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Services\obj\Debug\net7.0\refint\Services.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Services\obj\Debug\net7.0\Services.pdb
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Services\obj\Debug\net7.0\ref\Services.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Services\bin\Debug\net7.0\ViewModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Services\bin\Debug\net7.0\ViewModel.pdb

@@ -2146,6 +2146,9 @@
       "Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ViewModel": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Infrastructure.dll": {}
         },
@@ -2172,7 +2175,8 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Entity": "1.0.0",
-          "Infrastructure": "1.0.0"
+          "Infrastructure": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.11"
         },
         "compile": {
           "bin/placeholder/Services.dll": {}
@@ -2194,6 +2198,19 @@
         },
         "runtime": {
           "bin/placeholder/User.dll": {}
+        }
+      },
+      "ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "compile": {
+          "bin/placeholder/ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ViewModel.dll": {}
         }
       }
     }
@@ -6658,6 +6675,11 @@
       "type": "project",
       "path": "../User/User.csproj",
       "msbuildProject": "../User/User.csproj"
+    },
+    "ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../ViewModel/ViewModel.csproj",
+      "msbuildProject": "../ViewModel/ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {

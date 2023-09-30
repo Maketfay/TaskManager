@@ -28,3 +28,5 @@ D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\User\obj\Debug\net7.0\User.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\User\obj\Debug\net7.0\refint\User.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\User\obj\Debug\net7.0\User.pdb
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\User\obj\Debug\net7.0\ref\User.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\User\bin\Debug\net7.0\ViewModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\User\bin\Debug\net7.0\ViewModel.pdb

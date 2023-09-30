@@ -28,3 +28,5 @@ D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\refint\Entity.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\Entity.pdb
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\obj\Debug\net7.0\ref\Entity.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\bin\Debug\net7.0\ViewModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Entity\bin\Debug\net7.0\ViewModel.pdb

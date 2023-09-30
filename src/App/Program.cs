@@ -32,8 +32,9 @@ app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
 app.UseAuthentication();
+app.UseAuthorization();
+
 
 app.MapControllers();
 
@@ -54,11 +55,13 @@ void ConfigureDataProvider()
 void ConfigureRepositories()
 {
     builder.Services.AddScoped<IUserRepository, UserRepository>();
+    builder.Services.AddScoped<IUserRefreshTokenRepository, UserRefreshTokenRepository>();
 }
 
 void ConfigureEntities()
 {
     builder.Services.AddTransient<IUser, UserEntity>();
+    builder.Services.AddTransient<IUserRefreshToken, UserRefreshTokenEntity>();
 }
 
 void ConfigureServices() 

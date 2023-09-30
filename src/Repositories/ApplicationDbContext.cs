@@ -9,11 +9,15 @@ namespace Repositories
         { }
 
         public DbSet<UserEntity> User { get; set; }
+        public DbSet<UserRefreshTokenEntity> UserRefreshToken { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<UserRefreshTokenEntity>()
+                .HasOne(urt => urt.User as UserEntity);
         }
     }
 }

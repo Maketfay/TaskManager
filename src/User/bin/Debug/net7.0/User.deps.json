@@ -640,8 +640,19 @@
         }
       },
       "Infrastructure/1.0.0": {
+        "dependencies": {
+          "ViewModel": "1.0.0"
+        },
         "runtime": {
           "Infrastructure.dll": {}
+        }
+      },
+      "ViewModel/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "runtime": {
+          "ViewModel.dll": {}
         }
       }
     }
@@ -1220,6 +1231,11 @@
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
     "Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViewModel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

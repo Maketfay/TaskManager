@@ -169,3 +169,5 @@ D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\obj\Debug\net7.0\ref\App.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Services.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Services.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\ViewModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\ViewModel.pdb
