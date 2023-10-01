@@ -11,6 +11,11 @@ namespace Repositories
         public DbSet<UserEntity> User { get; set; }
         public DbSet<UserRefreshTokenEntity> UserRefreshToken { get; set; }
 
+        #region WorkSpace
+        public DbSet<WorkSpaceEntity> WorkSpace { get; set; }
+        public DbSet<WorkSpaceUserEntity> WorkSpaceUser { get; set; }
+
+        #endregion
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -18,6 +23,12 @@ namespace Repositories
 
             modelBuilder.Entity<UserRefreshTokenEntity>()
                 .HasOne(urt => urt.User as UserEntity);
+
+            modelBuilder.Entity<WorkSpaceUserEntity>()
+                .HasOne(wsu => wsu.WorkSpace as WorkSpaceEntity);
+
+            modelBuilder.Entity<WorkSpaceUserEntity>()
+                .HasOne(wsu => wsu.User as UserEntity);
         }
     }
 }

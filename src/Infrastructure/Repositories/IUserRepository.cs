@@ -6,5 +6,6 @@ namespace Infrastructure.Repositories
     {
         Task<IUser> CreateAsync(string name, string passwordHash);
         Task<IUser?> ReadAsync(string name);
+        Task<IUser?> ReadAsync(Guid id);
     }
 }

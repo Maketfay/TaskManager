@@ -48,12 +48,5 @@ namespace User.Controllers
 
             return Ok(token);
         }
-
-        [Authorize]
-        [HttpGet("/user/test")]
-        public IActionResult Test(string message) 
-        {
-            return Ok(message);
-        }
     }
 }

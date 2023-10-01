@@ -16,7 +16,8 @@
           "Repositories": "1.0.0",
           "Services": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0",
-          "User": "1.0.0"
+          "User": "1.0.0",
+          "WorkSpace": "1.0.0"
         },
         "runtime": {
           "App.dll": {}
@@ -1143,6 +1144,16 @@
         "runtime": {
           "ViewModel.dll": {}
         }
+      },
+      "WorkSpace/1.0.0": {
+        "dependencies": {
+          "Infrastructure": "1.0.0",
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.IdentityModel.JsonWebTokens": "6.24.0"
+        },
+        "runtime": {
+          "WorkSpace.dll": {}
+        }
       }
     }
   },
@@ -2032,6 +2043,11 @@
       "sha512": ""
     },
     "ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkSpace/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

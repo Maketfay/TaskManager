@@ -56,17 +56,25 @@ void ConfigureRepositories()
 {
     builder.Services.AddScoped<IUserRepository, UserRepository>();
     builder.Services.AddScoped<IUserRefreshTokenRepository, UserRefreshTokenRepository>();
+
+    builder.Services.AddScoped<IWorkSpaceRepository, WorkSpaceRepository>();
+    builder.Services.AddScoped<IWorkSpaceUserRepository, WorkSpaceUserRepository>();
 }
 
 void ConfigureEntities()
 {
     builder.Services.AddTransient<IUser, UserEntity>();
     builder.Services.AddTransient<IUserRefreshToken, UserRefreshTokenEntity>();
+
+    builder.Services.AddTransient<IWorkSpace, WorkSpaceEntity>();
+    builder.Services.AddTransient<IWorkSpaceUser, WorkSpaceUserEntity>();
+
 }
 
 void ConfigureServices() 
 {
     builder.Services.AddScoped<IUserService, UserService>();
+    builder.Services.AddScoped<IWorkSpaceService, WorkSpaceService>();
 }
 
 void ConfigureJwt() 

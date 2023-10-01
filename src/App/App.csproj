@@ -21,6 +21,7 @@
     <ProjectReference Include="..\Repositories\Repositories.csproj" />
     <ProjectReference Include="..\Services\Services.csproj" />
     <ProjectReference Include="..\User\User.csproj" />
+    <ProjectReference Include="..\WorkSpace\WorkSpace.csproj" />
   </ItemGroup>
 
 </Project>

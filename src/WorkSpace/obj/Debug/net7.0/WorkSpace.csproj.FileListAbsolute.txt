@@ -1,0 +1,17 @@
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\bin\Debug\net7.0\WorkSpace.deps.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\bin\Debug\net7.0\WorkSpace.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\bin\Debug\net7.0\WorkSpace.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\bin\Debug\net7.0\Infrastructure.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\bin\Debug\net7.0\ViewModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\bin\Debug\net7.0\Infrastructure.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\bin\Debug\net7.0\ViewModel.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\WorkSpace.csproj.AssemblyReference.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\WorkSpace.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\WorkSpace.AssemblyInfoInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\WorkSpace.AssemblyInfo.cs
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\WorkSpace.csproj.CoreCompileInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\WorkSpace.csproj.CopyComplete
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\WorkSpace.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\refint\WorkSpace.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\WorkSpace.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\WorkSpace\obj\Debug\net7.0\ref\WorkSpace.dll

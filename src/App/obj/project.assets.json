@@ -2212,6 +2212,21 @@
         "runtime": {
           "bin/placeholder/ViewModel.dll": {}
         }
+      },
+      "WorkSpace/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Infrastructure": "1.0.0",
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.IdentityModel.JsonWebTokens": "6.24.0"
+        },
+        "compile": {
+          "bin/placeholder/WorkSpace.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorkSpace.dll": {}
+        }
       }
     }
   },
@@ -6680,6 +6695,11 @@
       "type": "project",
       "path": "../ViewModel/ViewModel.csproj",
       "msbuildProject": "../ViewModel/ViewModel.csproj"
+    },
+    "WorkSpace/1.0.0": {
+      "type": "project",
+      "path": "../WorkSpace/WorkSpace.csproj",
+      "msbuildProject": "../WorkSpace/WorkSpace.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6692,7 +6712,8 @@
       "Repositories >= 1.0.0",
       "Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0",
-      "User >= 1.0.0"
+      "User >= 1.0.0",
+      "WorkSpace >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6730,6 +6751,9 @@
             },
             "D:\\BSUIR\\5 term\\ЖЦРПО\\TaskManager\\src\\User\\User.csproj": {
               "projectPath": "D:\\BSUIR\\5 term\\ЖЦРПО\\TaskManager\\src\\User\\User.csproj"
+            },
+            "D:\\BSUIR\\5 term\\ЖЦРПО\\TaskManager\\src\\WorkSpace\\WorkSpace.csproj": {
+              "projectPath": "D:\\BSUIR\\5 term\\ЖЦРПО\\TaskManager\\src\\WorkSpace\\WorkSpace.csproj"
             }
           }
         }

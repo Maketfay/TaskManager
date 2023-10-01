@@ -35,5 +35,10 @@ namespace Repositories
         {
             return await _context.User.FirstOrDefaultAsync(u => u.Name.Equals(name));
         }
+
+        public async Task<IUser?> ReadAsync(Guid id) 
+        {
+            return await _context.User.FirstOrDefaultAsync(u => u.Id.Equals(id));
+        }
     }
 }
