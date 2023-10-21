@@ -59,6 +59,10 @@ void ConfigureRepositories()
 
     builder.Services.AddScoped<IWorkSpaceRepository, WorkSpaceRepository>();
     builder.Services.AddScoped<IWorkSpaceUserRepository, WorkSpaceUserRepository>();
+    builder.Services.AddScoped<IWorkSpaceDeskRepository, WorkSpaceDeskRepository>();
+
+    builder.Services.AddScoped<IDeskRepository, DeskRepository>();
+    builder.Services.AddScoped<IDeskVisibilityTypeRepository, DeskVisibilityTypeRepository>();
 }
 
 void ConfigureEntities()
@@ -68,6 +72,10 @@ void ConfigureEntities()
 
     builder.Services.AddTransient<IWorkSpace, WorkSpaceEntity>();
     builder.Services.AddTransient<IWorkSpaceUser, WorkSpaceUserEntity>();
+    builder.Services.AddTransient<IWorkSpaceDesk, WorkSpaceDeskEntity>();
+
+    builder.Services.AddTransient<IDesk, DeskEntity>();
+    builder.Services.AddTransient<IDeskVisibilityType, DeskVisibilityTypeEntity>();
 
 }
 
@@ -75,6 +83,7 @@ void ConfigureServices()
 {
     builder.Services.AddScoped<IUserService, UserService>();
     builder.Services.AddScoped<IWorkSpaceService, WorkSpaceService>();
+    builder.Services.AddScoped<IDeskService, DeskService>();
 }
 
 void ConfigureJwt() 

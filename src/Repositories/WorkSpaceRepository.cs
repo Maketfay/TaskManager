@@ -1,6 +1,7 @@
 ﻿using Entity;
 using Infrastructure.Entity;
 using Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Repositories
@@ -29,6 +30,11 @@ namespace Repositories
             await _context.SaveChangesAsync();
 
             return entity;
+        }
+
+        public async Task<IWorkSpace?> ReadAsync(Guid id)
+        {
+            return await _context.WorkSpace.FirstOrDefaultAsync(ws => ws.Id.Equals(id));
         }
     }
 }

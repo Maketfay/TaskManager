@@ -173,3 +173,6 @@ D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\ViewModel.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\ViewModel.pdb
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\WorkSpace.dll
 D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\WorkSpace.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Desk.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\Desk.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\App\bin\Debug\net7.0\System.Linq.Async.dll

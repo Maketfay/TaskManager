@@ -1,0 +1,17 @@
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\bin\Debug\net7.0\Desk.deps.json
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\bin\Debug\net7.0\Desk.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\bin\Debug\net7.0\Desk.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\bin\Debug\net7.0\Infrastructure.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\bin\Debug\net7.0\ViewModel.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\bin\Debug\net7.0\Infrastructure.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\bin\Debug\net7.0\ViewModel.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\Desk.csproj.AssemblyReference.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\Desk.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\Desk.AssemblyInfoInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\Desk.AssemblyInfo.cs
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\Desk.csproj.CoreCompileInputs.cache
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\Desk.csproj.CopyComplete
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\Desk.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\refint\Desk.dll
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\Desk.pdb
+D:\BSUIR\5 term\ЖЦРПО\TaskManager\src\Desk\obj\Debug\net7.0\ref\Desk.dll
