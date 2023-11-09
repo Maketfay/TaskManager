@@ -13,8 +13,12 @@ WebAPI "Диспетчер задач для команды" предостав�
 
 
 #### Графический материал:
-- [Диаграммы](https://github.com/Maketfay/TaskManager)		
-- [Скриншоты](https://github.com/Maketfay/TaskManager) 
+- [Диаграммы активностей](https://github.com/Maketfay/TaskManager/blob/master/documentation/diagrams/activity/Activity.md)
+- [Диаграмма развертывания](https://github.com/Maketfay/TaskManager/blob/master/documentation/diagrams/deploy/Deploy.md)
+- [Диаграммы последовательности](https://github.com/Maketfay/TaskManager/blob/master/documentation/diagrams/sequence/Sequence.md)
+- [Диаграмма состояний](https://github.com/Maketfay/TaskManager/blob/master/documentation/diagrams/state/State.md)
+- [Диаграмма компонентов](https://github.com/Maketfay/TaskManager/blob/master/documentation/diagrams/component/Component.md)
+- [Диаграмма вариантов использования](https://github.com/Maketfay/TaskManager/blob/master/documentation/diagrams/usecase/UseCase.md)
 
 
 
