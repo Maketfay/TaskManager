@@ -1,0 +1,21 @@
+@startuml
+
+actor User as "User"
+participant "Frontend" as Frontend
+participant "Backend" as Backend
+database "Boards Database" as Database
+
+User -> Frontend: Выбрать 'Создать Доску'
+Frontend --> User: Отобразить форму создания доски
+User -> Frontend: Ввести детали доски (название, видимость)
+User -> Frontend: Добавить участников на доску
+Frontend -> Backend: Отправить запрос на создание доски с деталями
+activate Backend
+Backend -> Database: Сохранить детали доски
+Database --> Backend: Успешно сохранено
+deactivate Backend
+
+Backend --> Frontend: Подтвердить создание доски
+Frontend --> User: Просмотр созданной доски в приложении
+
+@enduml

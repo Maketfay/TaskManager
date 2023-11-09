@@ -1,0 +1,26 @@
+@startuml Component Diagram
+
+package "Frontend" {
+  [User Interface] as UI
+  UI --> [Board View]
+  UI --> [Card View]
+  UI --> [User Profile]
+}
+
+package "Backend" {
+  [User Management] as UM
+  [Board Management] as BM
+  [Card Management] as CM
+  UM --> [Database]
+  BM --> [Database]
+  CM --> [Database]
+}
+
+package "Database" {
+  [MySQL] as DB
+}
+
+Frontend --> Backend : HTTP
+Backend --> Frontend :HTTP
+
+@enduml

@@ -1,0 +1,40 @@
+@startuml
+
+left to right direction
+actor User as "User"
+
+rectangle "Use Cases" {
+  usecase "Войти в учётную запись" as UC1
+  usecase "Регистрация пользователя" as UC2
+  usecase "Создание доски" as UC3
+  usecase "Редактирование доски" as UC4
+  usecase "Удаление доски" as UC5
+  usecase "Создание карточки" as UC6
+  usecase "Редактирование карточки" as UC7
+  usecase "Удаление карточки" as UC8
+  usecase "Добавление комментария" as UC9
+  usecase "Редактирование комментария" as UC10
+  usecase "Удаление комментария" as UC11
+  usecase "Получение уведомлений" as UC12
+  usecase "Управление ярлыками" as UC13
+  usecase "Поиск" as UC14
+
+  User --> UC1 : <<include>>
+  User --> UC2 : <<include>>
+  User --> UC3 : <<include>>
+  User --> UC4 : <<include>>
+  User --> UC5 : <<include>>
+  User --> UC6 : <<include>>
+  User --> UC7 : <<include>>
+  User --> UC8 : <<include>>
+  User --> UC9 : <<include>>
+  User --> UC10 : <<include>>
+  User --> UC11 : <<include>>
+  User --> UC12 : <<include>>
+  User --> UC13 : <<include>>
+  User --> UC14 : <<include>>
+
+
+}
+
+@enduml
